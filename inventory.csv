@@ -1,0 +1,42 @@
+Catégorie,Type/Modèle,Valeur/Spécification,Quantité,Emplacement,Fournisseur,Prix unitaire (CAD),Lien Datasheet,Notes
+Microcontrôleurs,ESP32-C3 Super Mini,WiFi/BLE,9,,DigiKey,,,Pour projets WLED et automation
+Microcontrôleurs,ESP32-WROOM-32E,WiFi/BLE Dual Core,1,,DigiKey,,,
+LEDs,WS2815,RGB Addressable 12V,,,,,,"Pour Frozen Vortex, backup signal"
+LEDs,LED RGB Strip,24V IKEA,,,IKEA,,,Avec contrôle MOSFET
+MOSFETs,IRLB8721,N-Channel 30V 62A,10,,DigiKey,,,Pour switching 12V/24V
+MOSFETs,IRLZ44N,N-Channel ,5,,DigiKey,,,Pour switching 12V/24V
+MOSFETs,,P-Channel (high-side),,,,,,Pour contrôle high-side si nécessaire
+Résistances,10Ω,1/4W,10,,,,,Limiteur courant LEDs
+Résistances,100Ω,1/4W,7,,,,,Pour LEDs 5V
+Résistances,220Ω,1/4W,26,,,,,Limiteur courant LEDs
+Résistances,330Ω,1/4W,,,,,,Pour LEDs 5V
+Résistances,10kΩ,1/4W,3,,,,,Pull-up/pull-down standard
+Résistances,1kΩ,1/4W,9,,,,,Limiteur courant LEDs
+Résistances,2kΩ,1/4W,10,,,,,Limiteur courant LEDs
+Résistances,5K1Ω,1/4W,10,,,,,Pour LEDs 5V
+Résistances,100kΩ,1/4W,10,,,,,Limiteur courant LEDs
+Résistances,1MΩ,1/4W,10,,,,,Pour LEDs 5V
+Condensateurs,100µF,50V Électrolytique,7,,,,,Filtrage alimentation
+Condensateurs,470µF,25V Électrolytique,6,,,,,
+Condensateurs,10µF,25V Électrolytique,,,,,,
+Condensateurs,0.1µF,Céramique 50V,,,,,,Découplage ICs
+Régulateurs,mini MP1584EN,,6,,,,,Pour alimenter ESP32
+Régulateurs,LM2596,Buck DC-DC Step Down,2,,,,,Pour conversion voltage
+Capteurs,HX711,Load Cell Amplifier,,,,,,Pour pill dispenser
+Capteurs,Load Cell,Variable capacité,,,,,,Pour détection poids
+Connecteurs,JST,Divers types,,,,,,
+Connecteurs,Dupont,Headers M/F,,,,,,
+Connecteurs,Screw Terminals,Divers tailles,,,,,,
+Fusible,5x20,10A 125V,20,,,,,
+FUse Holder,Micro car fuse holder,,10,,,,,
+Divers,Diodes,1N4007 et autres,,,,,,Protection
+Câbles,Wire,22-24 AWG Divers couleurs,,,,,,
+Alimentation,Power Supply,12V/24V Divers ampérages,,,,,,
+PCB,Prototyping Boards,Divers tailles,,,,,,
+Impression 3D,PETG Filament,Divers couleurs,,,Bambu Lab,,,Pour boîtiers projets
+Transistor,pn2222,,3,,,,,
+IC,74HC595,,1,,,,,
+IC,4N35,,1,,,,,
+Capacitor,10^4pf,ceramic,10,,,,,
+Capacitor,22pf,ceramic,10,,,,,
+,MOD-MOS-A0D514,Module Mosfet PWM de contrôle de Moteur 2-Canaux Interrupteur à gachette pour Arduino 15A 400W DC 5V-36V,1,,,,https://abra-electronics.com/electromechanical/switches/switch-modules-breakout-boards/mod-mos-a0d514-pwm-mosfet-trigger-switch-driver-module-pwm-regulator-motor-control-board-for-arduino-15a-400w-dc-5v-36v.html,
