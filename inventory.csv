@@ -4,8 +4,17 @@ Microcontrôleurs,ESP32-WROOM-32E,WiFi/BLE Dual Core,1,,DigiKey,,,
 LEDs,WS2815,RGB Addressable 12V,,,,,,"Pour Frozen Vortex, backup signal"
 LEDs,LED RGB Strip,24V IKEA,,,IKEA,,,Avec contrôle MOSFET
 MOSFETs,IRLB8721,N-Channel 30V 62A,10,,DigiKey,,,Pour switching 12V/24V
-MOSFETs,IRLZ44N,N-Channel ,5,,DigiKey,,,Pour switching 12V/24V
-MOSFETs,,P-Channel (high-side),,,,,,Pour contrôle high-side si nécessaire
+MOSFETs,IRLZ44N,N-Channel,5,,DigiKey,,,Pour switching 12V/24V
+MOSFETs,IRF244N,N-Channel 49A/55V,5,,BOJACK Kit,,,Kit 50 pièces
+MOSFETs,IRF510N,N-Channel 5.6A/100V,5,,BOJACK Kit,,,Kit 50 pièces
+MOSFETs,IRF520N,N-Channel 9.7A/100V,5,,BOJACK Kit,,,Kit 50 pièces
+MOSFETs,IRF530N,N-Channel 17A/100V,5,,BOJACK Kit,,,Kit 50 pièces
+MOSFETs,IRF540N,N-Channel 33A/100V,5,,BOJACK Kit,,,Kit 50 pièces - Haute puissance
+MOSFETs,IRF640N,N-Channel 18A/200V,5,,BOJACK Kit,,,Kit 50 pièces - Voltage élevé
+MOSFETs,IRF740,N-Channel 10A/400V,5,,BOJACK Kit,,,Kit 50 pièces - Très haute tension
+MOSFETs,IRF840,N-Channel 8A/500V,5,,BOJACK Kit,,,Kit 50 pièces - Ultra haute tension
+MOSFETs,IRF3205,N-Channel 110A/55V,5,,BOJACK Kit,,,Kit 50 pièces - Ultra haute puissance
+MOSFETs,IRF9540N,P-Channel 23A/100V,5,,BOJACK Kit,,,Kit 50 pièces - P-Channel pour high-side
 Résistances,10Ω,1/4W,10,,,,,Limiteur courant LEDs
 Résistances,100Ω,1/4W,7,,,,,Pour LEDs 5V
 Résistances,220Ω,1/4W,26,,,,,Limiteur courant LEDs
@@ -28,7 +37,7 @@ Connecteurs,JST,Divers types,,,,,,
 Connecteurs,Dupont,Headers M/F,,,,,,
 Connecteurs,Screw Terminals,Divers tailles,,,,,,
 Fusible,5x20,10A 125V,20,,,,,
-FUse Holder,Micro car fuse holder,,10,,,,,
+Fuse Holder,Micro car fuse holder,,10,,,,,
 Divers,Diodes,1N4007 et autres,,,,,,Protection
 Câbles,Wire,22-24 AWG Divers couleurs,,,,,,
 Alimentation,Power Supply,12V/24V Divers ampérages,,,,,,
@@ -39,4 +48,4 @@ IC,74HC595,,1,,,,,
 IC,4N35,,1,,,,,
 Capacitor,10^4pf,ceramic,10,,,,,
 Capacitor,22pf,ceramic,10,,,,,
-,MOD-MOS-A0D514,Module Mosfet PWM de contrôle de Moteur 2-Canaux Interrupteur à gachette pour Arduino 15A 400W DC 5V-36V,1,,,,https://abra-electronics.com/electromechanical/switches/switch-modules-breakout-boards/mod-mos-a0d514-pwm-mosfet-trigger-switch-driver-module-pwm-regulator-motor-control-board-for-arduino-15a-400w-dc-5v-36v.html,
+Modules,MOD-MOS-A0D514,Module Mosfet PWM 2-Canaux 15A 400W DC 5V-36V,1,,,,https://abra-electronics.com/electromechanical/switches/switch-modules-breakout-boards/mod-mos-a0d514-pwm-mosfet-trigger-switch-driver-module-pwm-regulator-motor-control-board-for-arduino-15a-400w-dc-5v-36v.html,
