@@ -19,33 +19,54 @@ Résistances,10Ω,1/4W,10,,,,,Limiteur courant LEDs
 Résistances,100Ω,1/4W,7,,,,,Pour LEDs 5V
 Résistances,220Ω,1/4W,26,,,,,Limiteur courant LEDs
 Résistances,330Ω,1/4W,,,,,,Pour LEDs 5V
-Résistances,10kΩ,1/4W,3,,,,,Pull-up/pull-down standard
 Résistances,1kΩ,1/4W,9,,,,,Limiteur courant LEDs
 Résistances,2kΩ,1/4W,10,,,,,Limiteur courant LEDs
-Résistances,5K1Ω,1/4W,10,,,,,Pour LEDs 5V
+Résistances,5.1kΩ,1/4W,10,,,,,Pour LEDs 5V
+Résistances,10kΩ,1/4W,3,,,,,Pull-up/pull-down standard
 Résistances,100kΩ,1/4W,10,,,,,Limiteur courant LEDs
 Résistances,1MΩ,1/4W,10,,,,,Pour LEDs 5V
-Condensateurs,100µF,50V Électrolytique,7,,,,,Filtrage alimentation
-Condensateurs,470µF,25V Électrolytique,6,,,,,
-Condensateurs,10µF,25V Électrolytique,,,,,,
-Condensateurs,0.1µF,Céramique 50V,,,,,,Découplage ICs
-Régulateurs,mini MP1584EN,,6,,,,,Pour alimenter ESP32
+Condensateurs Électrolytiques,100µF,50V,7,,,,,Filtrage alimentation
+Condensateurs Électrolytiques,470µF,25V,6,,,,,Filtrage alimentation
+Condensateurs Électrolytiques,10µF,25V,,,,,,Filtrage alimentation
+Condensateurs Céramiques,10pF (100),50V,10,,Capacitor Kit 240pcs,,,Oscillateurs/timing
+Condensateurs Céramiques,20pF (200),50V,10,,Capacitor Kit 240pcs,,,Oscillateurs/timing
+Condensateurs Céramiques,30pF (300),50V,10,,Capacitor Kit 240pcs,,,Oscillateurs/timing
+Condensateurs Céramiques,47pF (470),50V,10,,Capacitor Kit 240pcs,,,Oscillateurs/timing
+Condensateurs Céramiques,56pF (560),50V,10,,Capacitor Kit 240pcs,,,Oscillateurs/timing
+Condensateurs Céramiques,68pF (680),50V,10,,Capacitor Kit 240pcs,,,Oscillateurs/timing
+Condensateurs Céramiques,100pF (101),50V,10,,Capacitor Kit 240pcs,,,Filtrage RF
+Condensateurs Céramiques,220pF (221),50V,10,,Capacitor Kit 240pcs,,,Filtrage RF
+Condensateurs Céramiques,330pF (331),50V,10,,Capacitor Kit 240pcs,,,Filtrage RF
+Condensateurs Céramiques,680pF (681),50V,10,,Capacitor Kit 240pcs,,,Filtrage RF
+Condensateurs Céramiques,1nF (102),50V,10,,Capacitor Kit 240pcs,,,Filtrage général
+Condensateurs Céramiques,4.7nF (472),50V,10,,Capacitor Kit 240pcs,,,Filtrage général
+Condensateurs Céramiques,10nF (103),50V,10,,Capacitor Kit 240pcs,,,Filtrage général
+Condensateurs Céramiques,47nF (473),50V,10,,Capacitor Kit 240pcs,,,Filtrage général
+Condensateurs Céramiques,100nF (104),50V,10,,Capacitor Kit 240pcs,,,Découplage standard (0.1µF)
+Condensateurs Céramiques,0.15µF (154),50V,10,,Capacitor Kit 240pcs,,,Découplage
+Condensateurs Céramiques,0.22µF (224),50V,10,,Capacitor Kit 240pcs,,,Découplage
+Condensateurs Céramiques,0.33µF (334),50V,10,,Capacitor Kit 240pcs,,,Découplage
+Condensateurs Céramiques,0.47µF (474),50V,10,,Capacitor Kit 240pcs,,,Découplage
+Condensateurs Céramiques,0.68µF (684),50V,10,,Capacitor Kit 240pcs,,,Découplage
+Condensateurs Céramiques,1µF (105),50V,10,,Capacitor Kit 240pcs,,,Découplage/filtrage
+Condensateurs Céramiques,2.2µF (225),50V,10,,Capacitor Kit 240pcs,,,Découplage/filtrage
+Condensateurs Céramiques,4.7µF (475),50V,10,,Capacitor Kit 240pcs,,,Découplage/filtrage
+Condensateurs Céramiques,10µF (106),50V,10,,Capacitor Kit 240pcs,,,Découplage/filtrage
+Régulateurs,mini MP1584EN,Buck Converter,6,,,,,Pour alimenter ESP32
 Régulateurs,LM2596,Buck DC-DC Step Down,2,,,,,Pour conversion voltage
 Capteurs,HX711,Load Cell Amplifier,,,,,,Pour pill dispenser
 Capteurs,Load Cell,Variable capacité,,,,,,Pour détection poids
 Connecteurs,JST,Divers types,,,,,,
 Connecteurs,Dupont,Headers M/F,,,,,,
 Connecteurs,Screw Terminals,Divers tailles,,,,,,
-Fusible,5x20,10A 125V,20,,,,,
+Fusibles,5x20,10A 125V,20,,,,,
 Fuse Holder,Micro car fuse holder,,10,,,,,
 Divers,Diodes,1N4007 et autres,,,,,,Protection
 Câbles,Wire,22-24 AWG Divers couleurs,,,,,,
 Alimentation,Power Supply,12V/24V Divers ampérages,,,,,,
 PCB,Prototyping Boards,Divers tailles,,,,,,
 Impression 3D,PETG Filament,Divers couleurs,,,Bambu Lab,,,Pour boîtiers projets
-Transistor,pn2222,,3,,,,,
-IC,74HC595,,1,,,,,
-IC,4N35,,1,,,,,
-Capacitor,10^4pf,ceramic,10,,,,,
-Capacitor,22pf,ceramic,10,,,,,
+Transistors,PN2222,NPN,3,,,,,General purpose
+ICs,74HC595,Shift Register 8-bit,1,,,,,Pour multiplexage
+ICs,4N35,Optocoupler,1,,,,,Isolation
 Modules,MOD-MOS-A0D514,Module Mosfet PWM 2-Canaux 15A 400W DC 5V-36V,1,,,,https://abra-electronics.com/electromechanical/switches/switch-modules-breakout-boards/mod-mos-a0d514-pwm-mosfet-trigger-switch-driver-module-pwm-regulator-motor-control-board-for-arduino-15a-400w-dc-5v-36v.html,
