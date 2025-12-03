@@ -15,16 +15,36 @@ MOSFETs,IRF740,N-Channel 10A/400V,5,,BOJACK Kit,,,Kit 50 pièces - Très haute t
 MOSFETs,IRF840,N-Channel 8A/500V,5,,BOJACK Kit,,,Kit 50 pièces - Ultra haute tension
 MOSFETs,IRF3205,N-Channel 110A/55V,5,,BOJACK Kit,,,Kit 50 pièces - Ultra haute puissance
 MOSFETs,IRF9540N,P-Channel 23A/100V,5,,BOJACK Kit,,,Kit 50 pièces - P-Channel pour high-side
-Résistances,10Ω,1/4W,10,,,,,Limiteur courant LEDs
-Résistances,100Ω,1/4W,7,,,,,Pour LEDs 5V
-Résistances,220Ω,1/4W,26,,,,,Limiteur courant LEDs
-Résistances,330Ω,1/4W,,,,,,Pour LEDs 5V
-Résistances,1kΩ,1/4W,9,,,,,Limiteur courant LEDs
-Résistances,2kΩ,1/4W,10,,,,,Limiteur courant LEDs
-Résistances,5.1kΩ,1/4W,10,,,,,Pour LEDs 5V
-Résistances,10kΩ,1/4W,3,,,,,Pull-up/pull-down standard
-Résistances,100kΩ,1/4W,10,,,,,Limiteur courant LEDs
-Résistances,1MΩ,1/4W,10,,,,,Pour LEDs 5V
+Résistances,10Ω,1/4W,30,,Resistor Kit 600pcs,,,Kit 600 pièces - Limiteur courant LEDs
+Résistances,22Ω,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Limiteur courant LEDs
+Résistances,47Ω,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Limiteur courant LEDs
+Résistances,100Ω,1/4W,27,,Resistor Kit 600pcs,,,Kit 600 pièces - LEDs 5V
+Résistances,150Ω,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Diviseurs tension
+Résistances,200Ω,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Diviseurs tension
+Résistances,220Ω,1/4W,46,,Resistor Kit 600pcs,,,Kit 600 pièces - LEDs standard
+Résistances,270Ω,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - LEDs
+Résistances,330Ω,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - LEDs 5V
+Résistances,470Ω,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Usage général
+Résistances,510Ω,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Usage général
+Résistances,680Ω,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Usage général
+Résistances,1kΩ,1/4W,29,,Resistor Kit 600pcs,,,Kit 600 pièces - Pull-up/diviseurs
+Résistances,2kΩ,1/4W,30,,Resistor Kit 600pcs,,,Kit 600 pièces - Diviseurs tension
+Résistances,2.2kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Diviseurs tension
+Résistances,3.3kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Diviseurs tension
+Résistances,4.7kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Pull-up
+Résistances,5.1kΩ,1/4W,30,,Resistor Kit 600pcs,,,Kit 600 pièces - Diviseurs tension
+Résistances,6.8kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Usage général
+Résistances,10kΩ,1/4W,23,,Resistor Kit 600pcs,,,Kit 600 pièces - Pull-up standard
+Résistances,20kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Usage général
+Résistances,47kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Haute impédance
+Résistances,51kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Haute impédance
+Résistances,68kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Haute impédance
+Résistances,100kΩ,1/4W,30,,Resistor Kit 600pcs,,,Kit 600 pièces - Pull-up haute impédance
+Résistances,220kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Très haute impédance
+Résistances,300kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Très haute impédance
+Résistances,470kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Ultra haute impédance
+Résistances,680kΩ,1/4W,20,,Resistor Kit 600pcs,,,Kit 600 pièces - Ultra haute impédance
+Résistances,1MΩ,1/4W,30,,Resistor Kit 600pcs,,,Kit 600 pièces - Méga haute impédance
 Condensateurs Électrolytiques,100µF,50V,7,,,,,Filtrage alimentation
 Condensateurs Électrolytiques,470µF,25V,6,,,,,Filtrage alimentation
 Condensateurs Électrolytiques,10µF,25V,,,,,,Filtrage alimentation
